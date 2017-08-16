@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Virtual Camera Device\Output\bin\Debug\BaseClassesNET.dll.config
+C:\Users\Administrator\Desktop\Virtual Camera Device\Output\bin\Debug\BaseClassesNET.dll
+C:\Users\Administrator\Desktop\Virtual Camera Device\Output\bin\Debug\BaseClassesNET.pdb
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\BaseClasses\obj\Debug\BaseClassesNET.pdb

@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\nie\Sources\Samples\DxCapture\obj\Debug\DxCapture.MainForm.resources
+C:\Users\Administrator\Desktop\nie\Sources\Samples\DxCapture\obj\Debug\DxCapture.Properties.Resources.resources
+C:\Users\Administrator\Desktop\nie\Sources\Samples\DxCapture\obj\Debug\DxCapture.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\nie\Output\bin\Debug\DxCapture.exe.config
+C:\Users\Administrator\Desktop\nie\Output\bin\Debug\DxCapture.exe
+C:\Users\Administrator\Desktop\nie\Output\bin\Debug\DxCapture.pdb
+C:\Users\Administrator\Desktop\nie\Sources\Samples\DxCapture\obj\Debug\DxCapture.exe
+C:\Users\Administrator\Desktop\nie\Sources\Samples\DxCapture\obj\Debug\DxCapture.pdb
+C:\Users\Administrator\Desktop\nie\Output\bin\11\DxCapture.exe.config
+C:\Users\Administrator\Desktop\nie\Output\bin\11\DxCapture.exe
+C:\Users\Administrator\Desktop\nie\Output\bin\11\DxCapture.pdb
+C:\Users\Administrator\Desktop\Output\bin\11\DxCapture.exe.config
+C:\Users\Administrator\Desktop\Output\bin\11\DxCapture.exe
+C:\Users\Administrator\Desktop\Output\bin\11\DxCapture.pdb
+C:\Users\Administrator\Desktop\Virtual Camera Device\Output\bin\Debug\DxCapture.exe.config
+C:\Users\Administrator\Desktop\Virtual Camera Device\Output\bin\Debug\DxCapture.exe
+C:\Users\Administrator\Desktop\Virtual Camera Device\Output\bin\Debug\DxCapture.pdb
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\DxCapture\obj\Debug\DxCapture.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\DxCapture\obj\Debug\DxCapture.MainForm.resources
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\DxCapture\obj\Debug\DxCapture.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\DxCapture\obj\Debug\DxCapture.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\DxCapture\obj\Debug\DxCapture.exe
+C:\Users\Administrator\Desktop\Virtual Camera Device\Sources\DxCapture\obj\Debug\DxCapture.pdb
